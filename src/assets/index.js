@@ -1,4 +1,4 @@
-const URL = "https://cdn.jsdelivr.net/gh/Wonderstruckxyz/zenopower@main/build/";
+const URL = "https://cdn.jsdelivr.net/gh/Zeno-Power-Systems/zeno-public-web@main/build/";
 
 export const assets = {
   //   img: null,
